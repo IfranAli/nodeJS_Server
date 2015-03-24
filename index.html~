@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="border" id="links">
+			<h1>Homepage</h1>
+			<br>
+			<a href="https://www.facebook.com/">facebook</a>
+			<br>
+			
+			<div class="button border">
+				<a href="http://boards.4chan.org/g/" >/g/</a>
+			</div>
+			
+			<div class="button border">
+				<a href="http://boards.4chan.org/b/" >/b/</a>
+			</div>
+			
+
+			<div class="table">
+				<table>
+					<tr>4chan</tr>
+					<tr>
+						<td><a href="http://boards.4chan.org/g/" >/g/</a><p>Technology!</p></td>
+						<td><a href="http://boards.4chan.org/sci/" >/sci/</a><p>Science!</p></td>
+						<td><a href="http://boards.4chan.org/vp/" >/vp/</a><p>Pokemon!</p></td>	
+						<td><a href="http://boards.4chan.org/b/" >/b/</a><p>Random!</p></td>	
+						<td class="blank"></td>					
+						<td><a href="http://boards.4chan.org/a/" >/a/</a><p>Anime!</p></td>	
+						<td></td>					
+						<td></td>					
+						<td></td>					
+					</tr>				
+				</table>		
+			</div>			
+			
+		</div>		
+	</body>
+</html>
